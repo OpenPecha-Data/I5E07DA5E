@@ -1,0 +1,27 @@
+id: I5E07DA5E
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-26T02:33:25+00:00'
+last_modified: '2022-06-08T10:26:29.926587+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W8LS18616
+  title: བོད་ཀྱི་གསོ་རིག་སྐོར་གྱི་ཤེས་བྱ་དྲིས་ལན་བློ་གསལ་ཉེར་མཁོ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  base:
+    1FFC:
+      image_group_id: I8LS18618
+      title: ''
+      total_pages: 233
+      order: 1
+      base_file: 1FFC.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
